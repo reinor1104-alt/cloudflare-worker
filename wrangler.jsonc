@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "silent-hill-dda2",
+  "name": "generator-pxd",
   "main": "worker.js",
-  "compatibility_date":  "2026-06-22"
+  "compatibility_date": "2026-06-22"
 }
